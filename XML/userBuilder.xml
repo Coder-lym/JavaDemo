@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<records>
+  <record>
+    <name>tom</name>
+    <price>26.5</price>
+  </record>
+  <record>
+    <name>jack</name>
+    <price>126.5</price>
+  </record>
+  <record>
+    <name>tom</name>
+    <price>29.5</price>
+  </record>
+  <record>
+    <name>terry</name>
+    <price>66.5</price>
+  </record>
+  <record>
+    <name>marry</name>
+    <price>29.5</price>
+  </record>
+  <record>
+    <name>ody</name>
+    <price>95.5</price>
+  </record>
+  <record>
+    <name>jack</name>
+    <price>96.5</price>
+  </record>
+  <record>
+    <name>tom</name>
+    <price>46.5</price>
+  </record>
+</records>
